@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rk", "rk.vcproj", "{CC24F9E6-8D31-445B-B49B-7F6F64558DA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LdrK", "..\LdrK\LdrK.vcproj", "{F2BFBBF8-BB04-4D26-9E19-467C0032ABE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vfs", "..\Vfs\Vfs.vcproj", "{14D8AAA7-3730-4B35-A8BA-7444020E3797}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TdiFlt", "..\TdiFlt\TdiFlt.vcproj", "{811488FB-C728-49D7-89EA-FF0DC0D349BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC24F9E6-8D31-445B-B49B-7F6F64558DA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC24F9E6-8D31-445B-B49B-7F6F64558DA5}.Debug|Win32.Build.0 = Debug|Win32
+		{CC24F9E6-8D31-445B-B49B-7F6F64558DA5}.Release|Win32.ActiveCfg = Release|Win32
+		{CC24F9E6-8D31-445B-B49B-7F6F64558DA5}.Release|Win32.Build.0 = Release|Win32
+		{F2BFBBF8-BB04-4D26-9E19-467C0032ABE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2BFBBF8-BB04-4D26-9E19-467C0032ABE0}.Debug|Win32.Build.0 = Debug|Win32
+		{F2BFBBF8-BB04-4D26-9E19-467C0032ABE0}.Release|Win32.ActiveCfg = Release|Win32
+		{F2BFBBF8-BB04-4D26-9E19-467C0032ABE0}.Release|Win32.Build.0 = Release|Win32
+		{14D8AAA7-3730-4B35-A8BA-7444020E3797}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14D8AAA7-3730-4B35-A8BA-7444020E3797}.Debug|Win32.Build.0 = Debug|Win32
+		{14D8AAA7-3730-4B35-A8BA-7444020E3797}.Release|Win32.ActiveCfg = Release|Win32
+		{14D8AAA7-3730-4B35-A8BA-7444020E3797}.Release|Win32.Build.0 = Release|Win32
+		{811488FB-C728-49D7-89EA-FF0DC0D349BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{811488FB-C728-49D7-89EA-FF0DC0D349BE}.Debug|Win32.Build.0 = Debug|Win32
+		{811488FB-C728-49D7-89EA-FF0DC0D349BE}.Release|Win32.ActiveCfg = Release|Win32
+		{811488FB-C728-49D7-89EA-FF0DC0D349BE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
